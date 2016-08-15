@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="incorrect_response">Incorrect Response</string>
+    <string name="connection_failure">Connection Failure</string>
+    <string name="refresh">Refresh</string>
+</resources>
